@@ -1,0 +1,16 @@
+#include <stdio.h>
+#include <iostream>
+
+/*Programa: Actividad_de_programación-1.cpp
+  Profesor: ********************
+  CENTRO UNIVERSITARIO DE LOS ALTOS/UNIVERSIDAD DE GUADALAJARA/
+  INGENIERÍA EN COMPUTACIÓN/2DO SEMESTRE.
+  Descripción: simplemente es un comando printf que imprime una serie 
+  de caracteres, como el nombre, le edad, lugar de residencia, carrera y
+  semestre de esta*/
+int main(){
+	printf("Nombre: Ernesto Gutierrez Garcia\nEdad: 19 anios\nLugar de residencia: ************************\nFecha: 29/enero/2024\nCarrera: ingenieria en computacion\nSemestre: 2do");
+	
+
+	return 0;
+}
